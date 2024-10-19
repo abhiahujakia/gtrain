@@ -6,3 +6,4 @@ now merging
 hello
 add
 more
+this is main stash
