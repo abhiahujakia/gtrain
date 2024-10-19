@@ -3,3 +3,4 @@ new file
 3 content
 687
 now merging
+hello
